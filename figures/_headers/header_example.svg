@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1.5in"
+   height="1.5in"
+   viewBox="0 0 38.100001 38.1"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="header_example.svg"
+   inkscape:export-batch-name=""
+   inkscape:export-batch-path="C:\Users\jbd17\OneDrive - Imperial College London\PhD\Thesis\phd-thesis-template\figures\_headers"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4314001"
+     inkscape:cx="203.64676"
+     inkscape:cy="69.512359"
+     inkscape:window-width="1747"
+     inkscape:window-height="1351"
+     inkscape:window-x="1077"
+     inkscape:window-y="472"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="38.100002"
+       height="38.099998"
+       id="page1"
+       margin="0"
+       bleed="0"
+       inkscape:label="default" />
+    <inkscape:page
+       x="48.100002"
+       y="0"
+       width="38.100002"
+       height="38.099998"
+       id="page2"
+       margin="0"
+       bleed="0"
+       inkscape:label="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#20489a;fill-opacity:0.65;stroke:#20489a;stroke-width:2.0959;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2"
+       width="26.940765"
+       height="26.940765"
+       x="13.470385"
+       y="-13.470384"
+       ry="3.0669177"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#20489a;fill-opacity:0.65;stroke:#20489a;stroke-width:1.32985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3"
+       width="17.093985"
+       height="17.093985"
+       x="17.475792"
+       y="-15.519776"
+       ry="1.945967"
+       transform="rotate(60)" />
+    <rect
+       style="fill:#20489a;fill-opacity:0.65;stroke:#20489a;stroke-width:0.708379;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4"
+       width="9.1055565"
+       height="9.1055565"
+       x="18.778612"
+       y="-18.023163"
+       ry="1.03657"
+       transform="rotate(75)" />
+    <rect
+       style="fill:#209a83;fill-opacity:0.64999998;stroke:#20489a;stroke-width:2.0959;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5"
+       width="26.940765"
+       height="26.940765"
+       x="47.543556"
+       y="-47.543556"
+       ry="3.0669177"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#209a83;fill-opacity:0.64999998;stroke:#20489a;stroke-width:1.32985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6"
+       width="17.093985"
+       height="17.093985"
+       x="41.56916"
+       y="-57.250721"
+       ry="1.945967"
+       transform="rotate(60)" />
+    <rect
+       style="fill:#209a83;fill-opacity:0.64999998;stroke:#20489a;stroke-width:0.708379;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect7"
+       width="9.1055565"
+       height="9.1055565"
+       x="31.250257"
+       y="-64.567978"
+       ry="1.03657"
+       transform="rotate(75)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.71208px;line-height:4.4916px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';text-align:center;letter-spacing:0.0271445px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#209a83;fill-opacity:0.65;stroke:#20489a;stroke-width:0.0869677;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="49.150959"
+       y="49.157642"
+       id="text7"
+       transform="matrix(0.76179872,-0.50704371,0.60547549,0.90968579,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.0869677"
+         x="49.164532"
+         y="49.157642">Your header image here</tspan></text>
+  </g>
+</svg>

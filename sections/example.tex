@@ -2,7 +2,6 @@
 % Give your sections labels so you can refer to them from other spots (this works across .tex files in the "sections" folder too!).
 \label{ch:example}
 % The first page of a chapter should not have a header at the top, specify the style for this page.
-\thispagestyle{plainheadline}
 
 % Include a statement of originality describing your contributions at the start of the chapter
 \begin{originality}
@@ -18,6 +17,8 @@
 
 \section*{Abstract}
 % Include a brief chapter abstract if desired.
+The header images are optional, and described in more detail in `thesis\_style.sty'. Basically, put a .pdf file matching the chapter number/letter in `figures/\_headers`, and you'll get a chapter header image. If there's no file for a chapter, it defaults to `default.pdf`. Remove that file -- no headers!
+
 \lipsum[1]
 
 \section{Example section}
@@ -82,3 +83,5 @@ Here's an example of a narrow figure with the caption to the side: Fig.~\ref{fig
 \end{figure}
 
 Examples of acronym usage: first instance -- \ac{CPU}, second instance -- \ac{CPU}. Forced full: \acf{CPU}.
+Examples of `siunitx' usage: \qty{1.23}{\meter\squared}, \qty{45.6}{\fluence} (custom unit defined in `thesis\_style.tex').
+Chemical formula: \ch{Al2(SO4)3}
