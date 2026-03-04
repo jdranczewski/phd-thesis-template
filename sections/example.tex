@@ -42,14 +42,14 @@ The header images are optional, and described in more detail in `thesis\_style.s
 
 Example citation\cite{dranczewskiPlasmaEtchingFabrication2023} -- citations appear in the upper right by default, if you need to reference a citation in the main text you can use Ref.~\citein{dranczewskiPlasmaEtchingFabrication2023}. Note the \goodtilde~symbol -- it forms a non-breaking space between ``Ref.'' and the citation number, meaning that they will always appear on the same line. You can similarly reference chapters and sections, for example Chapter~\ref{ch:example}.
 
-Here's an example figure: Fig.~\ref{fig:a_example_a_wide}
+Here's an example figure: Fig.~\ref{fig:z_example_a_name}
 
 \begin{figure}[h]
 	\centering
 	% You'll note that I'm not including a figure width here - in my opinion you should prepare the figures
 	% to be the correct width from the start, which avoids any rescaling issues or font size discrepancies.
 	% For this document, the figure width should be 6.3 inches
-	\includegraphics{placeholder.pdf}
+	\includegraphics{z_example_a_name/z_example_a_name.pdf}
 	\caption[
 		Wide example figure % This short description will appear in the figure list
 	]{
@@ -61,10 +61,10 @@ Here's an example figure: Fig.~\ref{fig:a_example_a_wide}
 	% Provide an ID for the figure so it can be referenced elsewhere in the text.
 	% Mine follow a scheme of [sequential chapter letter]_[short chapter name]_[sequential figure letter]_[short figure name]
 	% This allows easy alphabetical sorting of the figure folders, and general consistency.
-	\label{fig:a_example_a_wide}
+	\label{fig:z_example_a_name}
 \end{figure}
 
-Here's an example of a narrow figure with the caption to the side: Fig.~\ref{fig:a_example_b_narrow}
+Here's an example of a narrow figure with the caption to the side: Fig.~\ref{fig:a_example_b_narrow}. You can use `figures/placeholder.pdf' as temporary content while you work on the real figures.
 
 % Here we make the figure narrower, add some horizontal fill, and then add the caption to the right in a "minipage"
 \begin{figure}[h]
