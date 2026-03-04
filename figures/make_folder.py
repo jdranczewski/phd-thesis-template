@@ -7,6 +7,8 @@ Either run the file with a figure name as the argument::
     python make_folder.py z_example_a_name
 
 Or run the script without arguments and provide the name when prompted.
+
+The folder name will be copied to your clipboard.
 """
 
 import sys, os

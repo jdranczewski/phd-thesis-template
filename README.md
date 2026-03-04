@@ -44,8 +44,10 @@ Also `figures/z_example_a_name/example.py` for my preferred way to assemble figu
 
 I recommend reading through https://matplotlib.org/stable/users/explain/quick_start.html (even if you think you know matplotlib. Also, use the object-oriented interface rather than the pyplot-style one in my opinion!) and https://matplotlib.org/cheatsheets/ -- both are great resources.
 
+Here's a list of requirements, I recommend using bare Python (not Anaconda) and pip or uv: `pip install numpy matplotlib ipykernel pyperclip`.
+
 ## Inkscape for plotting
-I used Inkscape to lay out my final figures, and you can find a useful template in `figures/template.svg`, including arrows, shapes, and text sizes.
+I used Inkscape to lay out my final figures, and you can find a useful template in `figures/template.svg`, including arrows, shapes, and text sizes (and a little "a" that you can duplicate to give your subplots letter labels).
 It's also the right width to be included without scaling, as with Python figures.
 I would make the figure, then select all the visible parts, and export it to pdf while marking "export only selection".
 

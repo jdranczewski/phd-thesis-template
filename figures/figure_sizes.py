@@ -3,7 +3,6 @@ Print a sorted list of pdf figure file sizes.
 """
 
 # %%
-import datasets as ds
 import os
 from glob import glob
 # %%

@@ -11,7 +11,6 @@ import report_plot as rp
 
 import numpy as np
 import matplotlib.pyplot as plt
-import datasets as ds
 
 # %%
 # Make a function for plotting a single Axes in your plot.
